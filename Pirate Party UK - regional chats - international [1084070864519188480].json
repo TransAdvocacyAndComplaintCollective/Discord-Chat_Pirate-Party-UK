@@ -1,0 +1,1289 @@
+{
+  "guild": {
+    "id": "754674548988706928",
+    "name": "Pirate Party UK",
+    "iconUrl": "https://cdn.discordapp.com/icons/754674548988706928/e50b37cb474d3baf3718365960182c3f.png?size=512"
+  },
+  "channel": {
+    "id": "1084070864519188480",
+    "type": "GuildTextChat",
+    "categoryId": "1084070765651054622",
+    "category": "regional chats",
+    "name": "international",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-09-05T20:53:07.9738268+01:00",
+  "messages": [
+    {
+      "id": "1084423177049997352",
+      "type": "Default",
+      "timestamp": "2023-03-12T10:30:33.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello from the Australian pirates. \uD83D\uDE42 All the best with your new venture guys",
+      "author": {
+        "id": "996649714218962954",
+        "name": ".milspec",
+        "discriminator": "0000",
+        "nickname": "milspec",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/996649714218962954/0638c1b3edfa082c96535a51a537dca0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "532268330711515157",
+              "name": "nomtoxic",
+              "discriminator": "0000",
+              "nickname": "NomToxic",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/532268330711515157/13967fb10803d50e44b5bbc5834115c4.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD0D",
+            "code": "white_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f90d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "343514514592890880",
+              "name": "sopphey",
+              "discriminator": "0000",
+              "nickname": "{V}",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1093925199755346021",
+      "type": "Default",
+      "timestamp": "2023-04-07T16:48:11.769+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://pirateparty.org.au/2023/04/06/pirate-party-australia-addresses-tiktok-concerns-advocates-for-data-privacy-laws-and-transparent-app-labeling/",
+      "author": {
+        "id": "996649714218962954",
+        "name": ".milspec",
+        "discriminator": "0000",
+        "nickname": "milspec",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/996649714218962954/0638c1b3edfa082c96535a51a537dca0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Pirate Party Australia Addresses TikTok Concerns, Advocates for...",
+          "url": "https://pirateparty.org.au/2023/04/06/pirate-party-australia-addresses-tiktok-concerns-advocates-for-data-privacy-laws-and-transparent-app-labeling/",
+          "timestamp": null,
+          "description": "Pirate Party Australia, a political party focused on digital rights and civil liberties, acknowledges the potential risks posed by TikTok, but also emphasises the importance of a measured and evidence-based approach when addressing these concerns. While we understand the importance of national...",
+          "color": "#0073AE",
+          "author": {
+            "name": "Alex Jago",
+            "url": "https://pirateparty.org.au/author/alex-jago/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/OQ_CKOmJ0UeJMPyvg_Lvi1mLdLToO2OV1osOdDjFjkk/https/pirateparty.org.au/wordpress/wp-content/uploads/opengraph_fds_centred_bw-auth-600x315-cropped.png",
+            "width": 600,
+            "height": 315
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1116088847432945834",
+      "type": "Default",
+      "timestamp": "2023-06-07T20:38:37.156+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Up on the USPP Site we have an article on Ranked Choice Voting + more https://uspirates.org/comparing-rank-choice-voting-rcv-first-past-the-post-fptp-and-approval-voting-degrees-of-freedom-in-voting-systems/",
+      "author": {
+        "id": "343514514592890880",
+        "name": "sopphey",
+        "discriminator": "0000",
+        "nickname": "iAmV",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1141114897703383050",
+            "name": "International",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Comparing Rank Choice Voting (RCV), First Past the Post (FPTP), and...",
+          "url": "https://uspirates.org/comparing-rank-choice-voting-rcv-first-past-the-post-fptp-and-approval-voting-degrees-of-freedom-in-voting-systems/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "dausume",
+            "url": "https://uspirates.org/author/dausume/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1116478200151822346",
+      "type": "Default",
+      "timestamp": "2023-06-08T22:25:46.078+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Does this mean you guys will have lower energy bills?",
+      "author": {
+        "id": "343514514592890880",
+        "name": "sopphey",
+        "discriminator": "0000",
+        "nickname": "iAmV",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1141114897703383050",
+            "name": "International",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1116478199807885403",
+          "url": "https://cdn.discordapp.com/attachments/1084070864519188480/1116478199807885403/Screenshot_20230608-162450-297.png?ex=66daca99&is=66d97919&hm=ffbf22edf24e810af65f97e0408bdc5521dc92c800fb047be37eb1041a883cc0&",
+          "fileName": "Screenshot_20230608-162450-297.png",
+          "fileSizeBytes": 432478
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1116478314111053915",
+      "type": "Default",
+      "timestamp": "2023-06-08T22:26:13.248+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hopefully",
+      "author": {
+        "id": "465891787135909898",
+        "name": "furballmelt",
+        "discriminator": "0000",
+        "nickname": "Furball Melt",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/465891787135909898/78cc8e0e824d50226f40f38411932ce2.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1116480391755350027",
+      "type": "Default",
+      "timestamp": "2023-06-08T22:34:28.597+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's so annoying.",
+      "author": {
+        "id": "343514514592890880",
+        "name": "sopphey",
+        "discriminator": "0000",
+        "nickname": "iAmV",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1141114897703383050",
+            "name": "International",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1116480486248820787",
+      "type": "Default",
+      "timestamp": "2023-06-08T22:34:51.126+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i honestly don't know anything of it. but y'all have a rough winter and i'd like y'all to be able to afford heating",
+      "author": {
+        "id": "343514514592890880",
+        "name": "sopphey",
+        "discriminator": "0000",
+        "nickname": "iAmV",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1141114897703383050",
+            "name": "International",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1116480551755460609",
+      "type": "Default",
+      "timestamp": "2023-06-08T22:35:06.744+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "esp for those that work-from-home",
+      "author": {
+        "id": "343514514592890880",
+        "name": "sopphey",
+        "discriminator": "0000",
+        "nickname": "iAmV",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1141114897703383050",
+            "name": "International",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1118879063755460719",
+      "type": "Default",
+      "timestamp": "2023-06-15T13:25:56.567+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It is important to recognize that RCV is not a replacement for our current system; rather, it is an expansion of it. https://uspirates.org/rank-choice-voting-rcv-integrating-fptp-and-approval-voting-for-enhanced-voter-choice/",
+      "author": {
+        "id": "343514514592890880",
+        "name": "sopphey",
+        "discriminator": "0000",
+        "nickname": "iAmV",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1141114897703383050",
+            "name": "International",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rank Choice Voting (RCV): Integrating FPTP and Approval Voting for ...",
+          "url": "https://uspirates.org/rank-choice-voting-rcv-integrating-fptp-and-approval-voting-for-enhanced-voter-choice/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "dausume",
+            "url": "https://uspirates.org/author/dausume/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1120848449668128809",
+      "type": "Default",
+      "timestamp": "2023-06-20T23:51:34.758+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://twitter.com/tejaspirates/status/1671289556572811266",
+      "author": {
+        "id": "343514514592890880",
+        "name": "sopphey",
+        "discriminator": "0000",
+        "nickname": "iAmV",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1141114897703383050",
+            "name": "International",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://twitter.com/tejaspirates/status/1671289556572811266",
+          "timestamp": "2023-06-20T23:50:56.002+01:00",
+          "description": "#adminabusealert #reddit #blackouts #perfectcompliance We stand with @reddit moderators #tos #blackout #freeInternet",
+          "color": "#1DA1F2",
+          "author": {
+            "name": "Provisional Texas Pirates (@tejaspirates)",
+            "url": "https://twitter.com/tejaspirates",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/pfsHv3NvpHgsqpnMZ1zWwS4gSK_AMpFcaKbqcBxXOFQ/https/pbs.twimg.com/profile_images/1668304379416391695/YvODVZ4u_400x400.jpg"
+          },
+          "image": {
+            "url": "https://images-ext-1.discordapp.net/external/9l5bquOuLKUJo9D9Q7CJM4kWdLYAVi5MAf7woiI8Q5A/https/pbs.twimg.com/media/FzGc15QWcAAn3_-.jpg",
+            "width": 1080,
+            "height": 643
+          },
+          "footer": {
+            "text": "Twitter",
+            "iconUrl": "https://images-ext-1.discordapp.net/external/bXJWV2Y_F3XSra_kEqIYXAAsI3m1meckfLhYuWzxIfI/https/abs.twimg.com/icons/apple-touch-icon-192x192.png"
+          },
+          "images": [
+            {
+              "url": "https://images-ext-1.discordapp.net/external/9l5bquOuLKUJo9D9Q7CJM4kWdLYAVi5MAf7woiI8Q5A/https/pbs.twimg.com/media/FzGc15QWcAAn3_-.jpg",
+              "width": 1080,
+              "height": 643
+            }
+          ],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1143558417718464593",
+      "type": "Default",
+      "timestamp": "2023-08-22T15:52:53.072+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Heyall! The US Pirate Party will be hosting game night as part of our weekly pirate chat. We host pirate chats Tuesdays at 9est (fancy time in your time here). We're playing scrabble tonight! To join, just come by our server and hang.",
+      "author": {
+        "id": "343514514592890880",
+        "name": "sopphey",
+        "discriminator": "0000",
+        "nickname": "iAmV",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1141114897703383050",
+            "name": "International",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1143560748262490192",
+      "type": "Reply",
+      "timestamp": "2023-08-22T16:02:08.717+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@iAmV  can you give me an invte link",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "343514514592890880",
+          "name": "sopphey",
+          "discriminator": "0000",
+          "nickname": "iAmV",
+          "color": null,
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1084066117800181821",
+              "name": "MODS",
+              "color": null,
+              "position": 45
+            },
+            {
+              "id": "1085243164719329350",
+              "name": "He/Him",
+              "color": null,
+              "position": 36
+            },
+            {
+              "id": "1141114897703383050",
+              "name": "International",
+              "color": null,
+              "position": 17
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1143558417718464593",
+        "channelId": "1084070864519188480",
+        "guildId": "754674548988706928"
+      }
+    },
+    {
+      "id": "1143560828956725301",
+      "type": "Default",
+      "timestamp": "2023-08-22T16:02:27.956+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It's on our server, the voice chat.",
+      "author": {
+        "id": "343514514592890880",
+        "name": "sopphey",
+        "discriminator": "0000",
+        "nickname": "iAmV",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1141114897703383050",
+            "name": "International",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1143560949840748684",
+      "type": "Default",
+      "timestamp": "2023-08-22T16:02:56.777+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://discord.com/events/382701537656307714/1136830132695343145 ?",
+      "author": {
+        "id": "343514514592890880",
+        "name": "sopphey",
+        "discriminator": "0000",
+        "nickname": "iAmV",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1141114897703383050",
+            "name": "International",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1143560971672100976",
+      "type": "Default",
+      "timestamp": "2023-08-22T16:03:01.982+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thx",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD0D",
+            "code": "white_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f90d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "343514514592890880",
+              "name": "sopphey",
+              "discriminator": "0000",
+              "nickname": "iAmV",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "1167498961091842068",
+      "type": "Default",
+      "timestamp": "2023-10-27T17:24:03.406+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://uspirates.org/provisional-texas-pirates-call-for-peace/",
+      "author": {
+        "id": "343514514592890880",
+        "name": "sopphey",
+        "discriminator": "0000",
+        "nickname": "iAmV",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1141114897703383050",
+            "name": "International",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/343514514592890880/0bcde7949834c50c133210ff783c95a3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Provisional Texas Pirates Call For Peace",
+          "url": "https://uspirates.org/provisional-texas-pirates-call-for-peace/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "V",
+            "url": "https://uspirates.org/author/v/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1173324503674257409",
+      "type": "Default",
+      "timestamp": "2023-11-12T18:12:40.991+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If you're interested in joining us drop us a direct message",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1173331459260551168",
+      "type": "Default",
+      "timestamp": "2023-11-12T18:40:19.332+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "..",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1173331468882300978",
+      "type": "Default",
+      "timestamp": "2023-11-12T18:40:21.626+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey we're got our private discord channel where we're talking about copyright law at a international level we would like to invite anyone to join us in that channel",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 19
+}

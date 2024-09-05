@@ -1,0 +1,230 @@
+{
+  "guild": {
+    "id": "754674548988706928",
+    "name": "Pirate Party UK",
+    "iconUrl": "https://cdn.discordapp.com/icons/754674548988706928/e50b37cb474d3baf3718365960182c3f.png?size=512"
+  },
+  "channel": {
+    "id": "1084071489881514054",
+    "type": "GuildTextChat",
+    "categoryId": "1084070765651054622",
+    "category": "regional chats",
+    "name": "east-midlands",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-09-05T20:52:15.4419603+01:00",
+  "messages": [
+    {
+      "id": "1084457551028047962",
+      "type": "Default",
+      "timestamp": "2023-03-12T12:47:08.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Repping the East Midlands",
+      "author": {
+        "id": "339082929957502978",
+        "name": "bluelaggoon",
+        "discriminator": "0000",
+        "nickname": "bluelaggoon they/them",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1085243163540721704",
+            "name": "They/Them",
+            "color": null,
+            "position": 38
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/339082929957502978/b5f5bc8a191f11a3557983fcc62b63f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1084916397181775945",
+      "type": "Default",
+      "timestamp": "2023-03-13T19:10:25.86+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nottingham / East Midlands c:",
+      "author": {
+        "id": "172071854129807361",
+        "name": "tharrow",
+        "discriminator": "0000",
+        "nickname": "Tharrow",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/172071854129807361/02704afd3827c89dc89b2f3dd249284e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1084917070929612921",
+      "type": "Reply",
+      "timestamp": "2023-03-13T19:13:06.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Northampton to be more clear",
+      "author": {
+        "id": "339082929957502978",
+        "name": "bluelaggoon",
+        "discriminator": "0000",
+        "nickname": "bluelaggoon they/them",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1085243163540721704",
+            "name": "They/Them",
+            "color": null,
+            "position": 38
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/339082929957502978/b5f5bc8a191f11a3557983fcc62b63f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1084457551028047962",
+        "channelId": "1084071489881514054",
+        "guildId": "754674548988706928"
+      }
+    },
+    {
+      "id": "1152880330177519676",
+      "type": "Default",
+      "timestamp": "2023-09-17T09:14:50.195+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nottingham crew unite ☺️",
+      "author": {
+        "id": "425766015578931224",
+        "name": "lzywill",
+        "discriminator": "0000",
+        "nickname": "Lzy",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1141115331272790016",
+            "name": "East Midlands",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/425766015578931224/a_5c2e8fa03719aba93a0d559f26d2ce0a.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1152981668018278522",
+      "type": "Default",
+      "timestamp": "2023-09-17T15:57:31.019+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh yeah i'm in the east midlands now too",
+      "author": {
+        "id": "314795559292502028",
+        "name": "emily_mods",
+        "discriminator": "0000",
+        "nickname": "emily mods",
+        "color": null,
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1085243163540721704",
+            "name": "They/Them",
+            "color": null,
+            "position": 38
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/314795559292502028/93552be4a54f4b34c7fdb9d188f0cd90.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 5
+}

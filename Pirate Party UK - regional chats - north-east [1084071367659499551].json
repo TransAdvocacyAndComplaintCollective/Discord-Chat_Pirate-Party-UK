@@ -1,0 +1,399 @@
+{
+  "guild": {
+    "id": "754674548988706928",
+    "name": "Pirate Party UK",
+    "iconUrl": "https://cdn.discordapp.com/icons/754674548988706928/e50b37cb474d3baf3718365960182c3f.png?size=512"
+  },
+  "channel": {
+    "id": "1084071367659499551",
+    "type": "GuildTextChat",
+    "categoryId": "1084070765651054622",
+    "category": "regional chats",
+    "name": "north-east",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-09-05T20:52:18.8503576+01:00",
+  "messages": [
+    {
+      "id": "1209116831349219359",
+      "type": "Default",
+      "timestamp": "2024-02-19T12:38:36.898+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Why’s this the only regional lol \uD83D\uDE02",
+      "author": {
+        "id": "1142462165849210940",
+        "name": "d000dle",
+        "discriminator": "0000",
+        "nickname": "D00dleD",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1209126935637139476",
+      "type": "Default",
+      "timestamp": "2024-02-19T13:18:45.948+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its not the regions that you can see are based on your roles",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1209126935356248104",
+          "url": "https://cdn.discordapp.com/attachments/1084071367659499551/1209126935356248104/image.png?ex=66db0135&is=66d9afb5&hm=e445e892bfdfc46ddd6aaccf06be31dceee9d62132f5da3dbbd23f667944513d&",
+          "fileName": "image.png",
+          "fileSizeBytes": 53322
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1209127430569336872",
+      "type": "Default",
+      "timestamp": "2024-02-19T13:20:43.949+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you can override this  by ticking this box",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1209127430346907678",
+          "url": "https://cdn.discordapp.com/attachments/1084071367659499551/1209127430346907678/image.png?ex=66db01ab&is=66d9b02b&hm=8c293b75596e3fa1487b2a3bcd90aab171dce55d9cef5096ed80cc5ed31203af&",
+          "fileName": "image.png",
+          "fileSizeBytes": 106790
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1209127471329316884",
+      "type": "Reply",
+      "timestamp": "2024-02-19T13:20:53.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1209126935637139476",
+        "channelId": "1084071367659499551",
+        "guildId": "754674548988706928"
+      }
+    },
+    {
+      "id": "1209734751251071006",
+      "type": "Default",
+      "timestamp": "2024-02-21T05:34:00.483+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I see, I was so confused",
+      "author": {
+        "id": "1142462165849210940",
+        "name": "d000dle",
+        "discriminator": "0000",
+        "nickname": "D00dleD",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 5
+}

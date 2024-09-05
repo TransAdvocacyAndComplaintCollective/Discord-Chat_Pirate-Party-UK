@@ -1,0 +1,47 @@
+{
+  "guild": {
+    "id": "754674548988706928",
+    "name": "Pirate Party UK",
+    "iconUrl": "https://cdn.discordapp.com/icons/754674548988706928/e50b37cb474d3baf3718365960182c3f.png?size=512"
+  },
+  "channel": {
+    "id": "1084071608060223528",
+    "type": "GuildTextChat",
+    "categoryId": "1084070765651054622",
+    "category": "regional chats",
+    "name": "london",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-09-05T20:52:11.0951786+01:00",
+  "messages": [
+    {
+      "id": "1193802792331116604",
+      "type": "Default",
+      "timestamp": "2024-01-08T06:26:05.475+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anyone from the southeast?",
+      "author": {
+        "id": "1132142512136536116",
+        "name": "marisa____",
+        "discriminator": "0000",
+        "nickname": "marisa",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1132142512136536116/27b3a806c4db90554217135fbea146cc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 1
+}

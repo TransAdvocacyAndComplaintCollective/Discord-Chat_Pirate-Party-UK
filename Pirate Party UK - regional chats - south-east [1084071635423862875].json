@@ -1,0 +1,1252 @@
+{
+  "guild": {
+    "id": "754674548988706928",
+    "name": "Pirate Party UK",
+    "iconUrl": "https://cdn.discordapp.com/icons/754674548988706928/e50b37cb474d3baf3718365960182c3f.png?size=512"
+  },
+  "channel": {
+    "id": "1084071635423862875",
+    "type": "GuildTextChat",
+    "categoryId": "1084070765651054622",
+    "category": "regional chats",
+    "name": "south-east",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-09-05T20:52:09.1475586+01:00",
+  "messages": [
+    {
+      "id": "1084508057079402577",
+      "type": "Default",
+      "timestamp": "2023-03-12T16:07:49.993+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am in West Sussex",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1084698894258151455",
+      "type": "Default",
+      "timestamp": "2023-03-13T04:46:09.122+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "where would southampton fall?",
+      "author": {
+        "id": "707543718852427806",
+        "name": "neobridgeburn",
+        "discriminator": "0000",
+        "nickname": "neobridgeburn",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/707543718852427806/b57829c2e301d8b534350a56fa5c3ae9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1084754923608088578",
+      "type": "Reply",
+      "timestamp": "2023-03-13T08:28:47.56+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "South East of England",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "707543718852427806",
+          "name": "neobridgeburn",
+          "discriminator": "0000",
+          "nickname": "neobridgeburn",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/707543718852427806/b57829c2e301d8b534350a56fa5c3ae9.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1084698894258151455",
+        "channelId": "1084071635423862875",
+        "guildId": "754674548988706928"
+      }
+    },
+    {
+      "id": "1085071666478063646",
+      "type": "Default",
+      "timestamp": "2023-03-14T05:27:24.945+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "gotchu",
+      "author": {
+        "id": "707543718852427806",
+        "name": "neobridgeburn",
+        "discriminator": "0000",
+        "nickname": "neobridgeburn",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/707543718852427806/b57829c2e301d8b534350a56fa5c3ae9.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1139905391594065931",
+      "type": "Default",
+      "timestamp": "2023-08-12T13:57:03.774+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thinking about a south East meetup",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1140759789291446404",
+      "type": "Default",
+      "timestamp": "2023-08-14T22:32:08.059+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bet",
+      "author": {
+        "id": "305629460919615490",
+        "name": "gave2haze",
+        "discriminator": "0000",
+        "nickname": "Gav",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141115192562954263",
+            "name": "North East",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1141115519857074217",
+            "name": "South East",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/305629460919615490/3c8c0e152ba7ad894834094e4c378dc7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1140774496513560596",
+      "type": "Default",
+      "timestamp": "2023-08-14T23:30:34.534+01:00",
+      "timestampEdited": "2023-08-14T23:30:54.776+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm thinking about having a meetup in Brighton called font. Not sure what date to make it. Can people recommend when they're free and I will try and fit around them? @Gav @neobridgeburn",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "305629460919615490",
+          "name": "gave2haze",
+          "discriminator": "0000",
+          "nickname": "Gav",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1084066117800181821",
+              "name": "MODS",
+              "color": null,
+              "position": 45
+            },
+            {
+              "id": "1085243164719329350",
+              "name": "He/Him",
+              "color": null,
+              "position": 36
+            },
+            {
+              "id": "1140749008038535269",
+              "name": "Game Night",
+              "color": "#E91E63",
+              "position": 25
+            },
+            {
+              "id": "1140749363262521435",
+              "name": "Meeting",
+              "color": "#E74C3C",
+              "position": 24
+            },
+            {
+              "id": "1141024582925549672",
+              "name": "Events",
+              "color": null,
+              "position": 23
+            },
+            {
+              "id": "1141024900052688896",
+              "name": "Media Coverage",
+              "color": null,
+              "position": 20
+            },
+            {
+              "id": "1141115192562954263",
+              "name": "North East",
+              "color": null,
+              "position": 14
+            },
+            {
+              "id": "1141115519857074217",
+              "name": "South East",
+              "color": null,
+              "position": 6
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/305629460919615490/3c8c0e152ba7ad894834094e4c378dc7.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1141120047117504662",
+      "type": "Default",
+      "timestamp": "2023-08-15T22:23:40.218+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Not sure but definitely not before the end of the month",
+      "author": {
+        "id": "305629460919615490",
+        "name": "gave2haze",
+        "discriminator": "0000",
+        "nickname": "Gav",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141115192562954263",
+            "name": "North East",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1141115519857074217",
+            "name": "South East",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/305629460919615490/3c8c0e152ba7ad894834094e4c378dc7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1141120236142219294",
+      "type": "Default",
+      "timestamp": "2023-08-15T22:24:25.285+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Planning to go to poole after then with my job tho",
+      "author": {
+        "id": "305629460919615490",
+        "name": "gave2haze",
+        "discriminator": "0000",
+        "nickname": "Gav",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141115192562954263",
+            "name": "North East",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1141115519857074217",
+            "name": "South East",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/305629460919615490/3c8c0e152ba7ad894834094e4c378dc7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1141120323933175921",
+      "type": "Default",
+      "timestamp": "2023-08-15T22:24:46.216+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good luck with your job",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1142394387200999494",
+      "type": "Default",
+      "timestamp": "2023-08-19T10:47:26.57+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Thanks, i think they're gonna fire me tho lol",
+      "author": {
+        "id": "305629460919615490",
+        "name": "gave2haze",
+        "discriminator": "0000",
+        "nickname": "Gav",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141115192562954263",
+            "name": "North East",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1141115519857074217",
+            "name": "South East",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/305629460919615490/3c8c0e152ba7ad894834094e4c378dc7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1142394529215950849",
+      "type": "Default",
+      "timestamp": "2023-08-19T10:48:00.429+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Should make it easier to attend meetups tho?",
+      "author": {
+        "id": "305629460919615490",
+        "name": "gave2haze",
+        "discriminator": "0000",
+        "nickname": "Gav",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141115192562954263",
+            "name": "North East",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1141115519857074217",
+            "name": "South East",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/305629460919615490/3c8c0e152ba7ad894834094e4c378dc7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1152119262274662501",
+      "type": "Default",
+      "timestamp": "2023-09-15T06:50:37.467+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yo",
+      "author": {
+        "id": "1112837359675912232",
+        "name": "stephenk0966",
+        "discriminator": "0000",
+        "nickname": "Charlie",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141115519857074217",
+            "name": "South East",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1112837359675912232/3cea472422146badb1fa1e1b3ef4f439.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1152151590157955132",
+      "type": "Default",
+      "timestamp": "2023-09-15T08:59:05.035+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "how it going",
+      "author": {
+        "id": "243118320981639169",
+        "name": "elf6519",
+        "discriminator": "0000",
+        "nickname": "Lucy (ELF)",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1103745534721789982",
+            "name": "Officer",
+            "color": "#E74C3C",
+            "position": 49
+          },
+          {
+            "id": "1103746505388609676",
+            "name": "Leader",
+            "color": "#F1C40F",
+            "position": 48
+          },
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243163993710652",
+            "name": "She/Her",
+            "color": null,
+            "position": 37
+          },
+          {
+            "id": "1108864376733184030",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 27
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/243118320981639169/10f0478f7765ff1b5a4e487c80f02b8d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1152199736166719520",
+      "type": "Default",
+      "timestamp": "2023-09-15T12:10:23.938+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm away for another week, after that should be in surrey for long enough to make a meet-up",
+      "author": {
+        "id": "305629460919615490",
+        "name": "gave2haze",
+        "discriminator": "0000",
+        "nickname": "Gav",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141115192562954263",
+            "name": "North East",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1141115519857074217",
+            "name": "South East",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/305629460919615490/3c8c0e152ba7ad894834094e4c378dc7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 15
+}

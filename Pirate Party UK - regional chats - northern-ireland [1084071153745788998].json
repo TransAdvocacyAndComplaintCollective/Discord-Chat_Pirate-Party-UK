@@ -1,0 +1,501 @@
+{
+  "guild": {
+    "id": "754674548988706928",
+    "name": "Pirate Party UK",
+    "iconUrl": "https://cdn.discordapp.com/icons/754674548988706928/e50b37cb474d3baf3718365960182c3f.png?size=512"
+  },
+  "channel": {
+    "id": "1084071153745788998",
+    "type": "GuildTextChat",
+    "categoryId": "1084070765651054622",
+    "category": "regional chats",
+    "name": "northern-ireland",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-09-05T20:52:20.58769+01:00",
+  "messages": [
+    {
+      "id": "1192182561108140062",
+      "type": "Default",
+      "timestamp": "2024-01-03T19:07:52.249+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@jpokeefe",
+      "author": {
+        "id": "305629460919615490",
+        "name": "gave2haze",
+        "discriminator": "0000",
+        "nickname": "Gav",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141115192562954263",
+            "name": "North East",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1141115519857074217",
+            "name": "South East",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/305629460919615490/3c8c0e152ba7ad894834094e4c378dc7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "324368422135791617",
+          "name": "jpokeefe",
+          "discriminator": "0000",
+          "nickname": "jpokeefe",
+          "color": null,
+          "isBot": false,
+          "roles": [],
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+        }
+      ]
+    },
+    {
+      "id": "1192884561227550770",
+      "type": "Default",
+      "timestamp": "2024-01-05T17:37:22.12+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ahoy!",
+      "author": {
+        "id": "324368422135791617",
+        "name": "jpokeefe",
+        "discriminator": "0000",
+        "nickname": "jpokeefe",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1192884998420832266",
+      "type": "Default",
+      "timestamp": "2024-01-05T17:39:06.355+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I will be visiting family in Northern Ireland in February. Are there any pirates who would be available to meet up?",
+      "author": {
+        "id": "324368422135791617",
+        "name": "jpokeefe",
+        "discriminator": "0000",
+        "nickname": "jpokeefe",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/5.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1260700682214838293",
+      "type": "Default",
+      "timestamp": "2024-07-10T21:54:25.326+01:00",
+      "timestampEdited": "2024-07-10T21:54:35.191+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Can you make a chat for republic of ireland",
+      "author": {
+        "id": "666766878852644865",
+        "name": "flumbar",
+        "discriminator": "0000",
+        "nickname": "flumbar",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/754674548988706928/users/666766878852644865/avatars/a_db3b24e1ad228a3e72e7b6123775afbc.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1260700833138479205",
+      "type": "Default",
+      "timestamp": "2024-07-10T21:55:01.309+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This is the pirate party *UK*",
+      "author": {
+        "id": "709433709060816929",
+        "name": "aileronz",
+        "discriminator": "0000",
+        "nickname": "Aileron",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1141115192562954263",
+            "name": "North East",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/709433709060816929/0cd82d43a869ddcb9bee0e11614711b6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1260701163767074856",
+      "type": "Default",
+      "timestamp": "2024-07-10T21:56:20.137+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I don't like the UK",
+      "author": {
+        "id": "666766878852644865",
+        "name": "flumbar",
+        "discriminator": "0000",
+        "nickname": "flumbar",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/754674548988706928/users/666766878852644865/avatars/a_db3b24e1ad228a3e72e7b6123775afbc.gif?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1260702834052300830",
+      "type": "Default",
+      "timestamp": "2024-07-10T22:02:58.364+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Me neither man, me neither",
+      "author": {
+        "id": "709433709060816929",
+        "name": "aileronz",
+        "discriminator": "0000",
+        "nickname": "Aileron",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1141115192562954263",
+            "name": "North East",
+            "color": null,
+            "position": 14
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/709433709060816929/0cd82d43a869ddcb9bee0e11614711b6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1260715501575737375",
+      "type": "Default",
+      "timestamp": "2024-07-10T22:53:18.537+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pirate party needs policy including the blundering and/or pillaging of Ireland",
+      "author": {
+        "id": "244766903682203649",
+        "name": "lj4",
+        "discriminator": "0000",
+        "nickname": "л",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1141027495450263552",
+            "name": "Per/Per",
+            "color": null,
+            "position": 33
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024724244254761",
+            "name": "Policy Discussions",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1141024838199283853",
+            "name": "Election News",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/244766903682203649/a48eb2ac529db0e7465c811465a0db90.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1212047895188996126",
+            "name": "plus1",
+            "code": "plus1",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1212047895188996126.png"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "527587203728015380",
+              "name": "hotkirb",
+              "discriminator": "0000",
+              "nickname": "hotkirb",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/527587203728015380/f849e59c0a02caaeabce80c2d7e137d9.png?size=512"
+            },
+            {
+              "id": "709433709060816929",
+              "name": "aileronz",
+              "discriminator": "0000",
+              "nickname": "Aileron",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/709433709060816929/0cd82d43a869ddcb9bee0e11614711b6.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4E",
+            "code": "thumbsdown",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44e.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "666766878852644865",
+              "name": "flumbar",
+              "discriminator": "0000",
+              "nickname": "flumbar",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/guilds/754674548988706928/users/666766878852644865/avatars/a_db3b24e1ad228a3e72e7b6123775afbc.gif?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 8
+}

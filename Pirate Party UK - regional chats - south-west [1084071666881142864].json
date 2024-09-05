@@ -1,0 +1,114 @@
+{
+  "guild": {
+    "id": "754674548988706928",
+    "name": "Pirate Party UK",
+    "iconUrl": "https://cdn.discordapp.com/icons/754674548988706928/e50b37cb474d3baf3718365960182c3f.png?size=512"
+  },
+  "channel": {
+    "id": "1084071666881142864",
+    "type": "GuildTextChat",
+    "categoryId": "1084070765651054622",
+    "category": "regional chats",
+    "name": "south-west",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-09-05T20:52:07.6696056+01:00",
+  "messages": [
+    {
+      "id": "1084458812708225094",
+      "type": "Default",
+      "timestamp": "2023-03-12T12:52:09.22+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bristol \uD83D\uDE42",
+      "author": {
+        "id": "532268330711515157",
+        "name": "nomtoxic",
+        "discriminator": "0000",
+        "nickname": "NomToxic",
+        "color": "#E74C3C",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1084066233831399504",
+            "name": "Volunteers",
+            "color": null,
+            "position": 43
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141026400279744543",
+            "name": "Tech & Infrastuture",
+            "color": null,
+            "position": 19
+          },
+          {
+            "id": "1141115556108447764",
+            "name": "South West",
+            "color": null,
+            "position": 5
+          },
+          {
+            "id": "1141115592338833495",
+            "name": "Wales",
+            "color": null,
+            "position": 4
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/532268330711515157/13967fb10803d50e44b5bbc5834115c4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1129420683944939701",
+      "type": "Default",
+      "timestamp": "2023-07-14T15:34:34.674+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDC4B",
+      "author": {
+        "id": "619577471263834122",
+        "name": "wormisonline",
+        "discriminator": "0000",
+        "nickname": "Worm",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/619577471263834122/fe7d1407acfaafc841dea2fea4256919.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

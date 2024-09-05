@@ -1,0 +1,141 @@
+{
+  "guild": {
+    "id": "754674548988706928",
+    "name": "Pirate Party UK",
+    "iconUrl": "https://cdn.discordapp.com/icons/754674548988706928/e50b37cb474d3baf3718365960182c3f.png?size=512"
+  },
+  "channel": {
+    "id": "1084071394964406302",
+    "type": "GuildTextChat",
+    "categoryId": "1084070765651054622",
+    "category": "regional chats",
+    "name": "north-west",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2024-09-05T20:52:17.3057084+01:00",
+  "messages": [
+    {
+      "id": "1084444231474614352",
+      "type": "Default",
+      "timestamp": "2023-03-12T11:54:12.783+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Manny on the map",
+      "author": {
+        "id": "305629460919615490",
+        "name": "gave2haze",
+        "discriminator": "0000",
+        "nickname": "Gav",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1084066117800181821",
+            "name": "MODS",
+            "color": null,
+            "position": 45
+          },
+          {
+            "id": "1085243164719329350",
+            "name": "He/Him",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1140749008038535269",
+            "name": "Game Night",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1140749363262521435",
+            "name": "Meeting",
+            "color": "#E74C3C",
+            "position": 24
+          },
+          {
+            "id": "1141024582925549672",
+            "name": "Events",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1141024900052688896",
+            "name": "Media Coverage",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1141115192562954263",
+            "name": "North East",
+            "color": null,
+            "position": 14
+          },
+          {
+            "id": "1141115519857074217",
+            "name": "South East",
+            "color": null,
+            "position": 6
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/305629460919615490/3c8c0e152ba7ad894834094e4c378dc7.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1121072102032801864",
+      "type": "Default",
+      "timestamp": "2023-06-21T14:40:17.637+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "0161, Manny on the map",
+      "author": {
+        "id": "456226577798135808",
+        "name": "Deleted User",
+        "discriminator": "0000",
+        "nickname": "Deleted User",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/3.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD19",
+            "code": "call_me",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f919.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "305629460919615490",
+              "name": "gave2haze",
+              "discriminator": "0000",
+              "nickname": "Gav",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/305629460919615490/3c8c0e152ba7ad894834094e4c378dc7.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}
